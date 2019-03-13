@@ -18,8 +18,10 @@ Requirements
 
 Tested with all combinations of:
 
-* Python: 2.7, 3.6
+* Python: 3.6
 * Django: 1.11, 2.0, 2.1
+
+Python 3.4+ supported.
 
 Setup
 -----
